@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class StableMatching {
-    /* I knew they didn't accept it because it was wrong. It was too general. You pay more because it's more credit per credit. It's less.
+    /* 
      * Generates a stable matching.
      * 
      * @param prefHorses Preferences of the horses. prefHorses[i] lists the indices
